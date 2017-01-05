@@ -3,9 +3,11 @@
 
 ### Files & Software you need
 Sketch: https://www.sketchapp.com/
+
 Craft Plugin for Sketch: https://www.invisionapp.com/craft
 
 Download the Pattern Library.sketch: https://github.com/morphcore/patternlibrary/blob/master/Pattern%20Library.sketch?raw=true
+
 Download Craft Shared Library: https://www.dropbox.com/s/3ofdu1vg3fyjix8/Pattern%20Library.library.zip?dl=0
 
 ### What is it for?
