@@ -4,8 +4,9 @@
 ### Files & Software you need
 Sketch: https://www.sketchapp.com/
 Craft Plugin for Sketch: https://www.invisionapp.com/craft
-Pattern Library.sketch: 
-Craft Shared Library: https://www.dropbox.com/s/3ofdu1vg3fyjix8/Pattern%20Library.library.zip?dl=0
+
+Download the Pattern Library.sketch: https://github.com/morphcore/patternlibrary/blob/master/Pattern%20Library.sketch?raw=true
+Download Craft Shared Library: https://www.dropbox.com/s/3ofdu1vg3fyjix8/Pattern%20Library.library.zip?dl=0
 
 ### What is it for?
 This Pattern Library is a quick and easy to use tool, to initialize the design for responsive website projects in a very quick manner. The Pattern library provides you with a lot of frequently used patterns in webdesign. Ranging from supernice sliders to very boring tables.
