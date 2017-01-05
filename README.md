@@ -14,15 +14,12 @@ https://support.invisionapp.com/hc/en-us/articles/208434046-Craft-Introduction-t
 
 ### How do I use it?
 #### Initialize the Craft Library
-
 Open the Craft Library drawer and click on „Import Library“ Then select the Folder „Pattern Library.library“ that came with this document.
 
 #### Check out the awesome stuff
-
 You now have access to all the patterns that came with this document. You can also find all the patterns in the respective folders and pages on the left hand side, right here in sketch.
 
 #### Use the page „Site Templates“ to start
-
 Go ahead. Just open the Page „Site Templates“ here in sketch and start dragging and dropping the patterns into the site.
 
 ### How is it structured?
