@@ -1,7 +1,7 @@
 # patternlibrary
 ## A webdesign pattern library for Sketch & Craft
 
-![My image](http://clients.florianbredl.info/patternlibrary/03.png)
+![My image](http://clients.florianbredl.info/patternlibrary/a.png)
 
 ### Files & Software you need
 Sketch: https://www.sketchapp.com/
@@ -26,20 +26,20 @@ https://support.invisionapp.com/hc/en-us/articles/208434046-Craft-Introduction-t
 ### How do I use it?
 #### Initialize the Craft Library
 Open the Craft Library drawer and click on „Import Library“ Then select the Folder „Pattern Library.library“ that came with this document.
-![My image](http://clients.florianbredl.info/patternlibrary/02.png)
+![My image](http://clients.florianbredl.info/patternlibrary/b.png)
 
 #### Check out the awesome stuff
 You now have access to all the patterns that came with this document. You can also find all the patterns in the respective folders and pages on the left hand side, right here in sketch.
-![My image](http://clients.florianbredl.info/patternlibrary/03.png)
+![My image](http://clients.florianbredl.info/patternlibrary/c.png)
 
 #### Use the page „Site Templates“ to start
 Go ahead. Just open the Page „Site Templates“ here in sketch and start dragging and dropping the patterns into the site.
-![My image](http://clients.florianbredl.info/patternlibrary/04.png)
+![My image](http://clients.florianbredl.info/patternlibrary/d.png)
 
 ### How is it structured?
 All patterns and templates come in three different sizes Large (Desktop), Medium (Tablet) and Small (Smartphone). Alle sizes use a basic grid system for easy alignment. All patterns also come with predefined spacings. So you can just drag & drop them without worriyng about spacing. You can tweak it of course, if you want to. The Names of the patterns are constructed like this: Pattern Name - Viewport Size.
 So for example „Medium Headline centered - Large“ is a Medium sized Headline for a large Viewport. You get the idea.
-![My image](http://clients.florianbredl.info/patternlibrary/05.png)
+![My image](http://clients.florianbredl.info/patternlibrary/e.png)
 
 ### How do I design with it?
 You can easily redesign everything in The Pattern Library. There are three locations in the sketch file where you can change every design element.
