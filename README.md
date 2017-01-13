@@ -52,5 +52,10 @@ Just change the symbols here, or on the go while designing.
 Any design element in The Pattern Library uses a shared style. If you want to change the overall look of the design just adjust these styles and you’re already a huge step further to your goal.
 
 #### Third location Text Styles
-Any (nearly any, let’s be honest here) text in The Pattern Library uses a text style. Just adjust these styles, change the font and color, to build your preferred look.
+Any (nearly any, let’s be honest here) text in The Pattern Library uses a text style. Just adjust these styles, change the font and color, to build your preferred look.  
 
+---
+
+# ToDos
+* Add more Patterns (Suggestions Welcome)
+* Think about implementing "Auto Layout"  (https://medium.com/sketch-app-sources/introducing-auto-layout-for-sketch-24e7b5d068f9#.viibeeb7r)
