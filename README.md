@@ -32,7 +32,7 @@ You now have access to all the patterns that came with this document. You can al
 Go ahead. Just open the Page „Site Templates“ here in sketch and start dragging and dropping the patterns into the site.
 
 ### How is it structured?
-All patterns and templates come in three different sizes Large (Desktop), Medium (Tablet) and Small (Smartphone). Alle sizes use a basic grid system for easy alignement. All patterns also come with predefined spacings. So you can just drag & drop them without worriyng about spacing. You can tweak it of course, if you want to. The Names of the patterns are constructed like this: Pattern Name - Viewport Size.
+All patterns and templates come in three different sizes Large (Desktop), Medium (Tablet) and Small (Smartphone). Alle sizes use a basic grid system for easy alignment. All patterns also come with predefined spacings. So you can just drag & drop them without worriyng about spacing. You can tweak it of course, if you want to. The Names of the patterns are constructed like this: Pattern Name - Viewport Size.
 So for example „Medium Headline centered - Large“ is a Medium sized Headline for a large Viewport. You get the idea.
 
 ### How do I design with it?
@@ -46,5 +46,5 @@ Just change the symbols here, or on the go while designing.
 Every design element in The Pattern Library uses a shared style. If you want to change the overall look of the design just adjust these styles and you’re already a huge step further to your goal.
 
 #### Third location Text Styles
-Every (nearly every, let’s be honest here) text in The Pattern Library uses a text style. Just adjust these styles, change the font and color, to build your needed look.
+Any (nearly any, let’s be honest here) text in The Pattern Library uses a text style. Just adjust these styles, change the font and color, to build your preferred look.
 
